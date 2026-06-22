@@ -1,0 +1,9 @@
+# secret file
+secrets.txt
+
+# folder of temp sys logs
+/logs/
+
+# computer-specific settings files
+.DS_Store
+Thumbs.db
